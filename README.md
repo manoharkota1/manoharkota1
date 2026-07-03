@@ -6,7 +6,7 @@
 
 **AI/ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; M.Tech AI/ML @ SRM University AP**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoharkota-in) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharkota.in@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoharkota1) ![Profile Views](https://komarev.com/ghpvc/?username=manoharkota1&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoharkota-in) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharkota.in@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=manoharkota1&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
 
