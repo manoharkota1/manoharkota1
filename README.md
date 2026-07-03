@@ -19,7 +19,7 @@ I build systems end-to-end: from distributed backend architecture to production 
 - 🎓 M.Tech, Artificial Intelligence & Machine Learning, SRM University AP (2025 to 2027) · **CGPA 9.0/10**
 - 🎓 B.Tech, Computer Science, PSCMR Engineering College
 - 💼 Full-Stack Developer Intern @ **Farview Global** · Data Science Intern @ **ArchOver Solutions**
-- 🔭 Currently designing senior-level distributed backend systems (WebSocket protocols, caching layers, message-lifecycle architecture) and multilingual NLP research pipelines
+- 🔭 Currently designing senior-level distributed backend systems 
 - 🌱 Deep-diving into LLMs, RAG, agentic AI, and large-scale system design
 - 🎯 Targeting high-impact AI/ML & backend engineering roles
 - 💬 Ask me about full-stack development, applied ML, GenAI, agentic systems, or distributed system design
