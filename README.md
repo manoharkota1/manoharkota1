@@ -53,6 +53,6 @@ I build systems end-to-end: from distributed backend architecture to production 
 ---
 <div align="center">
 
-**Open to AI/ML, GenAI, and backend engineering roles. Let's connect.**
+**Open to AI/ML, GenAI, and Software Engineering roles. Let's connect.**
 
 </div>
